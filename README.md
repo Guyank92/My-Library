@@ -68,7 +68,7 @@ Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the Guy License.
 
 Questions or Issues?
 If you have any questions or encounter issues, please feel free to open a GitHub issue. We're here to help enhance your library experience!
