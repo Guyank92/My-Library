@@ -1,21 +1,22 @@
-Library Management System
+**Library Management System**
+
 Welcome to the Library Management System! This simple Flask application provides a user-friendly interface for managing books, loans, and customer registrations in a library. Whether you're a librarian or a library member, this system offers essential features to streamline your library experience.
 
-Features
+**Features**
 1. User Authentication
 Sign Up: Register as a library member to access personalized features.
 Login: Securely log in to your account with encrypted password handling.
 Logout: Safely sign out when done using the library services.
-2. Book Management
+2. **Book Management**
 Add Books: Easily add new books to the library, including details like name, author, year published, and book type.
 View Books: Browse the complete list of books available in the library.
-3. Customer Registration
+3. **Customer Registration**
 Register: Become a library member by providing essential details like name, city, and age.
-4. Loan Management
+4. **Loan Management**
 Loan Books: Borrow books from the library by choosing from the available collection.
 Return Books: Return borrowed books and keep track of the return date.
 Late Return Alerts: Get notified if a book is returned late.
-5. Extended User Details
+5. **Extended User Details**
 Member Profiles: View and manage your library member profile with additional details.
 Loan History: Access your loan history to keep track of borrowed books.
 Getting Started
